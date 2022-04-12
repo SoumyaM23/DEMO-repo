@@ -1,3 +1,4 @@
+#To demonstrate abstract class
 using System;
 
 public abstract class A
